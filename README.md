@@ -1,5 +1,9 @@
 # GenAI_Document_Summarization_Integration
 
+# Colab Link with Output
+
+https://colab.research.google.com/drive/1k0cabATSWbiRdXHWgicQGl6xYBjD4h7Q?usp=sharing
+
 # GenAI Document Vector Integration
 
 This project demonstrates how to embed, search, summarize, and manage multiple PDF and Excel documents using:
